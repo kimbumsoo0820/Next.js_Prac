@@ -1,10 +1,10 @@
 import NavBar from "../components/NavBar";
 
-export default function Home() {
+export default function Potato() {
   return (
     <div>
       <NavBar />
-      <hi>HELLO</hi>
+      <hi>About us</hi>
     </div>
   );
 }
